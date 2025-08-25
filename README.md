@@ -32,4 +32,4 @@ _Aquí puedes añadir una imagen de tu página web._
 
 ---
 
-_Desarrollado con pasión por [Tu Nombre o nombre de usuario de GitHub]_
+_Desarrollado con pasión por [RAMTAY-PANAMA]_
