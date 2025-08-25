@@ -1,9 +1,20 @@
-# Directorios de módulos de Node.js (si los usas)
-/node_modules
-
-# Archivos de caché
+# Archivos del sistema operativo
 .DS_Store
 Thumbs.db
+Desktop.ini
 
-# Archivos de configuración locales
-*.env
+# Archivos de registro y caché
+*.log
+*.tmp
+*.cache
+
+# Directorios de dependencias (si las usas)
+/node_modules/
+
+# Archivos de configuración y variables de entorno
+.env
+.env.local
+
+# Archivos generados automáticamente o compilados
+/dist
+/build
