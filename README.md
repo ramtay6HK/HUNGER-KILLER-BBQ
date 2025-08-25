@@ -28,8 +28,6 @@ Simplemente visita la página web para empezar a hacer tu pedido.
 
 _Aquí puedes añadir una imagen de tu página web._
 
-![Captura de pantalla del sitio web de Hunger Killer BBQ](https://i.imgur.com/your-image-url.png)
-
 ---
 
 _Desarrollado con pasión por [RAMTAY-PANAMA]_
